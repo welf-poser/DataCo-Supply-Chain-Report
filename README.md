@@ -2,7 +2,7 @@
 
 <img width="934" height="592" alt="Screenshot 2026-06-14 095351" src="https://github.com/user-attachments/assets/4ce20fcc-2e79-4912-8c6c-8b94086f50a8" />
 <img width="920" height="587" alt="Screenshot 2026-06-14 095409" src="https://github.com/user-attachments/assets/1796deb7-e138-4cae-ac57-15a5d4d7e745" />
-<img width="934" height="592" alt="Screenshot 2026-06-14 095351" src="https://github.com/user-attachments/assets/c8b2c270-eb49-48f9-8416-15f217cb4bfd" />
+<img width="918" height="586" alt="Screenshot 2026-06-14 095431" src="https://github.com/user-attachments/assets/01d77131-cb07-4ff3-8f1c-91a2a2b809d7" />
 
 A Tableau-based academic visual analytics project using the DataCo Smart Supply Chain dataset.
 
