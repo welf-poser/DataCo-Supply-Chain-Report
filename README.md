@@ -1,5 +1,9 @@
 # DataCo Supply Chain Report
 
+<img width="934" height="592" alt="Screenshot 2026-06-14 095351" src="https://github.com/user-attachments/assets/b2f4a48a-d24b-4643-88c9-b3d0176aca81" />
+<img width="920" height="587" alt="Screenshot 2026-06-14 095409" src="https://github.com/user-attachments/assets/1796deb7-e138-4cae-ac57-15a5d4d7e745" />
+<img width="934" height="592" alt="Screenshot 2026-06-14 095351" src="https://github.com/user-attachments/assets/c8b2c270-eb49-48f9-8416-15f217cb4bfd" />
+
 A Tableau-based academic visual analytics project using the DataCo Smart Supply Chain dataset.
 
 This project explores how supply-chain data can be transformed into an interactive BI report for monitoring shipment performance, delivery delays, sales, profit and customer-related patterns.
